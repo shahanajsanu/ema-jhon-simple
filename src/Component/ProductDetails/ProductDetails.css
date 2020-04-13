@@ -1,0 +1,10 @@
+.product-details-container{
+    text-align: center;
+    font-size: 20px;
+    padding-top: 50px;
+}
+.product-details-container h1{
+    text-decoration: underline;
+    color: lightseagreen;
+    margin-bottom: 30px;
+}
